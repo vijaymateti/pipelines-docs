@@ -31,8 +31,8 @@ $ tkn resource create
 ? Enter a name for a pipeline resource : ui-image
 ? Select a resource type to create : image
 ? Enter a value for url : image-registry.openshift-image-registry.svc:5000/pipelines-tutorial/ui:latest
-? Enter a value for revision :
-New git resource "ui-image" has been created
+? Enter a value for digest :
+New image resource "ui-image" has been created
 
 ----
 
